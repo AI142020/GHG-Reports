@@ -16,10 +16,11 @@ Dieses Projekt ist eine Fullstack-Webanwendung zur Erfassung und Analyse von CO�
 ## 📊 Berechnungslage
 
 Die CO₂-Äquivalente werden mit folgenden Faktoren berechnet:
--   **Strom:** 0,42 kg/kWh (dt. Strommix)
--   **Erdgas:** 0,202 kg/kWh
--   **Diesel:** 2,67 kg/Liter
--   **Benzin: Noch nicht festgelegt
+-   **Strom:**    0,42 kg/kWh (dt. Strommix)
+-   **Ökostrom:** 0,36 kg/kWh
+-   **Erdgas:**   0,2 kg/kWh
+-   **Diesel:**   2,64 kg/Liter
+-   **Benzin:**   2,5 kg/Liter
 -   **Hybrid: Noch nicht festgelegt
 
 ---
