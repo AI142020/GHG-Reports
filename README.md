@@ -75,3 +75,5 @@ npm run dev
 *Die App startet unter `http://localhost:5173`.*
 
 ---
+
+## 📂 Projektstruktur // In Bearbeitung
